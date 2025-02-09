@@ -1,8 +1,8 @@
-#AMAZON MOVIE  ANALYSIS DASHBOARD:
+##AMAZON MOVIE  ANALYSIS DASHBOARD:
 
 This Power BI dashboard provides a comprehensive analysis of Amazon Prime’s Movies and TV Shows, using data sourced from Kaggle. It enables users to explore content distribution across different categories, visualize trends over time, and gain insights into the platform’s offerings.
 
-#Key Insights & Features
+##Key Insights & Features
 Total Titles: 9,655 movies and TV shows available on Amazon Prime.
 Content Release Trends: A line chart displaying the number of movies and TV shows released over the years, highlighting a surge in content after the 2000s.
 Geographical Distribution: A world map showing the number of shows available by country.
@@ -12,9 +12,9 @@ Ratings Breakdown: A bar chart depicting content distribution by age ratings, wi
 Directors & Releases:
 Total Directors: 5,771
 Average Releases: 2.01K
-#Purpose
+##Purpose
 This dashboard helps users, researchers, and media analysts explore Amazon Prime’s content library. It provides insights into content availability, genre preferences, and trends over time, aiding data-driven decisions in the entertainment industry.
-#Steps Involved in Creating the Dashboard:
+##Steps Involved in Creating the Dashboard:
 Data Collection: Download dataset from Kaggle.
 Data Import: Load the CSV file into Power BI using Get Data → Text/CSV.
 Data Cleaning & Transformation: Remove unnecessary columns, fix missing values, and format data in Power Query Editor.
@@ -27,7 +27,7 @@ Bar Charts (Genres, Ratings)
 Map Visual (Content by Country)
 Adding Filters & Slicers: Allow users to filter by year, genre, and country.
 Formatting & Design: Use a dark theme, proper font sizes, and interactive tooltips for better readability.
-#CONCLUSIONS AND INSIGHTS:
+##CONCLUSIONS AND INSIGHTS:
 1. Amazon Prime Has a Vast Content Library
 With 9,655 total titles, Amazon Prime has a diverse collection of movies and TV shows, making it a major streaming platform.
 2. Movies Dominate the Platform
